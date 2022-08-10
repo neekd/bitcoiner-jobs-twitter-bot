@@ -1,0 +1,8 @@
+oAuthToken: ''
+oAuthSecret: ''
+clientKey: ''
+clientKeySecret: ''
+rssFeedURL: 'https://bitcoinerjobs.com/rss/jobs/new.rss'
+hashtags:
+  - '#Boop'
+  - '#Bitcoin'
